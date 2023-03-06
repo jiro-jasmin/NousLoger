@@ -4,7 +4,9 @@ Ce projet est réalisé par Florian J. Giraud dans le cadre du test technique pr
 
 La consigne était la suivante:
 > Nous aimerions que tu créés une application React simple qui affiche une liste d'appartements. L'application doit permettre à l'utilisateur de créer, éditer et supprimer des appartements. Chaque appartement doit avoir un nom, une description, un prix et une photo.  
-
+  
+🚀 [**Accéder à la demo en ligne**](https://nousloger.vercel.app/) 🚀
+  
 ## Outils & Fonctionnalités
 
 - React avec TypeScript
